@@ -13,14 +13,14 @@ Le site met en valeur une galerie visuelle de fleurs, pots décoratifs et compos
 
 ## 📁 Arborescence du projet
 
-/Test html_css de Raoul new
-│
-├── Test.html # Page principale
-├── Test.css # Fichier de style CSS
-├── galerie.html # Autre page de galerie
-├── galerie_1.html # Variante galerie
-├── /images/ # Contient les images utilisées
-├── /galerie/ # (Optionnel : d’autres contenus)
+/Test html_css de Raoul new\
+│\
+├── Test.html # Page principale\
+├── Test.css # Fichier de style CSS\
+├── galerie.html # Autre page de galerie\
+├── galerie_1.html # Variante galerie\
+├── /images/ # Contient les images utilisées\
+├── /galerie/ # (Optionnel : d’autres contenus)\
 
 
 ## ▶️ Aperçu
